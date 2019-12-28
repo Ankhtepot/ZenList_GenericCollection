@@ -1,0 +1,14 @@
+C:\Users\Petr\source\repos\PZ\OOP\GenericCollection\bin\Debug\GenericCollection.exe.config
+C:\Users\Petr\source\repos\PZ\OOP\GenericCollection\bin\Debug\GenericCollection.exe
+C:\Users\Petr\source\repos\PZ\OOP\GenericCollection\bin\Debug\GenericCollection.pdb
+C:\Users\Petr\source\repos\PZ\OOP\GenericCollection\obj\Debug\GenericCollection.csprojResolveAssemblyReference.cache
+C:\Users\Petr\source\repos\PZ\OOP\GenericCollection\obj\Debug\GenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\Petr\source\repos\PZ\OOP\GenericCollection\obj\Debug\GenericCollection.exe
+C:\Users\Petr\source\repos\PZ\OOP\GenericCollection\obj\Debug\GenericCollection.pdb
+C:\Kurs\PZ\OOP\GenericCollection\bin\Debug\GenericCollection.exe.config
+C:\Kurs\PZ\OOP\GenericCollection\bin\Debug\GenericCollection.exe
+C:\Kurs\PZ\OOP\GenericCollection\bin\Debug\GenericCollection.pdb
+C:\Kurs\PZ\OOP\GenericCollection\obj\Debug\GenericCollection.csprojResolveAssemblyReference.cache
+C:\Kurs\PZ\OOP\GenericCollection\obj\Debug\GenericCollection.csproj.CoreCompileInputs.cache
+C:\Kurs\PZ\OOP\GenericCollection\obj\Debug\GenericCollection.exe
+C:\Kurs\PZ\OOP\GenericCollection\obj\Debug\GenericCollection.pdb
